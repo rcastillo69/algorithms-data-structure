@@ -6,3 +6,13 @@ java/lambda-streams-colletions/.idea/jarRepositories.xml
 java/lambda-streams-colletions/.idea/misc.xml
 java/lambda-streams-colletions/.idea/vcs.xml
 java/lambda-streams-colletions/target/
+java/*/.gradle/*
+java/data-structure/review/.gradle/*
+java/data-structure/review/.gradle/7.4/*
+java/data-structure/review/.idea/.gitignore
+java/data-structure/review/.idea/*
+java/data-structure/review/build/*
+java/data-structure/review/gradle/*
+java/lambda-streams-colletions/.idea/*
+java/data-structure/review/.gradle/7*/*
+java/data-structure/review/.gradle/7.4/fileHashes/*
